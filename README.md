@@ -7,6 +7,9 @@
 
 - 💬 Ask me about **Go, Python, Kafka, Distributed systems**
 
+- 📝 My publications
+  - [Distributed tracing with OpenTelemetry in your Go/Python microservices](https://medium.com/adevinta-tech-blog/distributed-tracing-with-opentelemetry-in-your-go-python-microservices-1782cd0a1e77)
+
 - 📫 How to reach me **alexdomoryonok@gmail.com**
 
 - 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/aliaksandr-damaronak)
