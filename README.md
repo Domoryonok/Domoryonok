@@ -12,4 +12,4 @@
 
 - 📫 How to reach me **alexdomoryonok@gmail.com**
 
-- 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/aliaksandr-damaronak)
+- 📄 Learn about my experiences [linkedin](https://www.linkedin.com/in/aliaksandr-damaronak)
