@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on **Kafka infrastructure at Adevinta**
 
-- 🌱 I’m currently learning **Rust**
-
 - 💬 Ask me about **Go, Python, Kafka, Distributed systems**
 
-- 📝 My publications
+- 📝 My articles
   - [Distributed tracing with OpenTelemetry in your Go/Python microservices](https://medium.com/adevinta-tech-blog/distributed-tracing-with-opentelemetry-in-your-go-python-microservices-1782cd0a1e77)
 
 - 📫 How to reach me **alexdomoryonok@gmail.com**
