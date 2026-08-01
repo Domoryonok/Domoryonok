@@ -11,7 +11,7 @@
 
 ### About
 
-Senior Software Engineer with 9+ years building and scaling distributed systems for high-traffic platforms. Currently at Adevinta working on Kafka infrastructure.
+Senior Software Engineer with over 10 years of experience building and scaling distributed systems for high-traffic platforms. Currently at Typeform; previously at Adevinta, where I worked on Managed Kafka platform.
 
 Beyond the code: solving hard problems that move the business forward, mentoring engineers, and sharing knowledge across teams.
 
